@@ -1,0 +1,4 @@
+read N;
+S <- 0;
+for (i=0; i<N; i++) S+=N;
+print S;
